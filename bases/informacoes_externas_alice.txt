@@ -1,0 +1,84 @@
+## 1. Informações Básicas
+Nome: Alice Ferreira de Souza
+Idade: 25 anos
+Idiomas: Português e Inglês
+País de residência: Brasil
+Cidade de residêcia: Belo Horizonte
+Profissão / área de atuação: Cientista de Dados
+
+## 2. Interesses e Especializações
+- Ciência de Dados
+- Machine Learning
+- Personalização de produtos digitais
+- Monitoramento e escalabilidade de sistemas online
+- Ferramentas AWS (SageMaker, S3, EMR)
+- Dashboards e análise de dados (Tableau, Power BI, Shiny)
+- Marketing e dados aplicados a produtos
+- Engenharia de LLMs (início da trajetória com forte interesse e dedicação)
+
+## 3. Experiência Profissional de trabalho
+
+### Cientista de Dados Pleno — Banco Inter  
+**Banco Inter — Belo Horizonte, MG**  
+*Dezembro 2021 – Atual*  
+- Iniciei como estagiária e atualmente atuo como cientista de dados 2 no setor de marketing.  
+- Responsável pela personalização de uma das principais áreas do app do Banco Inter.  
+- Experiência sólida com monitoramento, otimização e escalabilidade de sistemas online.  
+- Desenvolvimento de modelos de machine learning para diversos produtos do banco, com uso extensivo de ferramentas AWS (SageMaker, S3, EMR).  
+- Criação de dashboards interativos no Tableau para análise de performance de modelos e campanhas.  
+- Desenvolvimento de uma visão técnica e analítica abrangente, conectando áreas técnicas e de negócios.
+
+### Estagiária em Ciência de Dados — Oper  
+**Oper — Belo Horizonte, MG**  
+*Fevereiro 2021 – Novembro 2021*  
+- Criação de dashboards em Shiny para visualização dinâmica de dados e apoio à tomada de decisão.  
+- Desenvolvimento de dashboards processuais para criação de interfaces amigáveis para processos complexos, como definição de metas e remuneração variável.
+
+### Estagiária / Iniciação Científica — Laboratório Sybion  
+**Sybion — Belo Horizonte, MG**  
+*Setembro 2020 – Junho 2021*  
+- Atuei no time computacional do laboratório de biologia Sybion, auxiliando na criação de uma nova metodologia para identificação de clones em repertórios genéticos.  
+- A metodologia foi baseada na distância da matriz de similaridade por cosseno.  
+- O pacote desenvolvido, chamado YClon, realiza a identificação clonal de forma mais eficiente do que métodos tradicionais, reduzindo significativamente o tempo de processamento sem grandes perdas genéticas.
+
+## 4. Educação e Formação
+- Se formou em **Bacharelado em Estatística** (2019 – 2023)  
+  Universidade Federal de Minas Gerais (UFMG)
+
+- Possui **Certificado em Língua Inglesa** (2017 – 2020)  
+  Dell School — Sete Lagoas, MG
+
+## 5. Habilidades Técnicas
+- **Linguagens de Programação (Avançado)**: Python, PySpark, R, SQL
+- **Modelagem Preditiva e Machine Learning**: desenvolvimento, otimização e monitoramento de modelos
+- **Ferramentas de Visualização de Dados**: Tableau (avançado), Power BI (avançado), Shiny Dashboard (pleno)
+- **Portfólio Shiny**: shiny_1, shiny_2, shiny_3
+- **Ferramentas de Cloud e Infraestrutura**: AWS (SageMaker, S3, EMR)
+- **Análise de dados e métricas de performance**: criação de dashboards, indicadores e insights acionáveis
+- **Idiomas**: Português (nativo), Inglês (avançado)
+
+## 6. Objetivos com a IA
+- Obter respostas técnicas e analíticas aprofundadas.
+- Automatizar tarefas relacionadas a ciência de dados e análise.
+- Apoiar na criação de projetos e documentação técnica.
+- Explorar novas aplicações de IA em personalização de produtos e marketing.
+- Aprofundar conhecimento e atuação em engenharia de LLMs.
+
+## 7. Informações Complementares
+- Experiência com marketing orientado a dados e personalização de experiências digitais.
+- Interesses de longo prazo: **atuar profissionalmente na área de LLMs e RAGs**, com foco em pesquisa aplicada, engenharia e integração em produtos reais.
+- Foco em soluções escaláveis e com impacto mensurável no negócio.
+- Iniciando atuação na área de engenharia de LLMs, com grande interesse e determinação para se destacar por meio de disciplina e esforço contínuo de aprendizado.
+
+## 8. Perfil Pessoal - hobbies e atividades a Alice gosta de praticar fora do trabalho
+- Apaixonada por vôlei e corrida, atividades que refletem seu espírito competitivo e disciplinado.  
+- Determinada, focada e estudiosa, com forte comprometimento em tudo que se propõe a fazer.  
+- Natural de Sete Lagoas (MG), cidade pela qual tem grande carinho e orgulho, atualmente reside em Belo Horizonte.  
+- Valorização de equilíbrio entre vida pessoal e profissional, com interesse em esportes, aprendizado contínuo e desafios intelectuais.
+
+## 11. Experiência com LLMs e RAGs
+- Desenvolveu um framework próprio de chatbot utilizando mecanismos de manipulação de LLMs open source e o framework LangChain.  
+- Construiu uma RAG (Retrieval-Augmented Generation) que insere informações pessoais de forma inteligente, utilizando OpenAIEmbeddings para selecionar as chunks mais relevantes e adicionar contexto ao chatbot.  
+- Apesar de estar iniciando na área, demonstra grande interesse, disciplina e força de vontade para se desenvolver como engenheira de LLMs.  
+- Aprendizado contínuo em integração, escalabilidade e otimização de LLMs para aplicações práticas, com foco em respostas contextualizadas e personalizadas.
+

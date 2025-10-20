@@ -1,0 +1,27 @@
+/* Cor de fundo da sidebar */
+[data-testid="stSidebar"] {
+    background-color: #404050;  /* cor desejada */
+    color: #ffffff;             /* cor do texto */
+}
+
+.st-emotion-cache-1an99fx {
+    font-family: "Source Sans", sans-serif;
+    color: rgb(213 213 213);
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+/* Headers da sidebar */
+[data-testid="stSidebar"] h2 {
+    color: #ffe6e3;             /* cor do header */
+}
+
+/* Texto normal da sidebar */
+[data-testid="stSidebar"] p, [data-testid="stSidebar"] li {
+    color: #DDDDDD;
+}
+
+/* Linha horizontal e rodapé */
+[data-testid="stSidebar"] hr {
+    border-color: #555555;
+}
