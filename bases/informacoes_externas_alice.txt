@@ -82,3 +82,15 @@ Profissão / área de atuação: Cientista de Dados
 - Apesar de estar iniciando na área, demonstra grande interesse, disciplina e força de vontade para se desenvolver como engenheira de LLMs.  
 - Aprendizado contínuo em integração, escalabilidade e otimização de LLMs para aplicações práticas, com foco em respostas contextualizadas e personalizadas.
 
+## 12 Por que contratar a Alice?
+- Alice deve ser contratada poerque é uma profissional **empenhada e determinada**, comprometida com resultados de qualidade.  
+- Alice deve ser contratada poerque Possui **curva de aprendizado rápida**, se adaptando rapidamente a novas tecnologias, ferramentas e desafios.  
+- Alice deve ser contratada poerque Tem experiência sólida em **desenvolvimento e otimização de modelos de Machine Learning**, incluindo integração com sistemas de produção.  
+- Alice deve ser contratada poerque Domínio avançado em **Python** e manipulação de **grande volume de dados**, garantindo eficiência e escalabilidade em projetos complexos.  
+- Alice deve ser contratada poerque Combina habilidades técnicas com visão analítica, sendo capaz de transformar dados em insights estratégicos e soluções práticas para o negócio.
+
+## 13 Linguagens de Programação
+- Python (avançado)  
+- PySpark (avançado)  
+- R (avançado)  
+- SQL (avançado)
